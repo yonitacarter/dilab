@@ -27,16 +27,16 @@ export const NavigationBar = () => {
               <Nav.Link href="/dilab/#/services">Services</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="dilab/#/about">About</Nav.Link>
+              <Nav.Link href="/dilab/#/about">About</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/#/contact">Contact</Nav.Link>
+              <Nav.Link href="/dilab/#/contact">Contact</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/#/register">Register</Nav.Link>
+              <Nav.Link href="/dilab/#/register">Register</Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link href="/#/login">Login</Nav.Link>
+              <Nav.Link href="/dilab/#/login">Login</Nav.Link>
             </Nav.Item>
           </Nav>
         </Navbar.Collapse>

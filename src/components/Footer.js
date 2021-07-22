@@ -66,13 +66,13 @@ const Footer = () => {
           </MDBCol>
           <MDBCol md="4">
             <StyledLink>
-              <Nav.Link href="/#/terms">
+              <Nav.Link href="/dilab/#/terms">
                 <em>Terms & Conditions</em>
               </Nav.Link>
-              <Nav.Link href="/#/about">
+              <Nav.Link href="/dilab/#/about">
                 <em>About us</em>
               </Nav.Link>
-              <Nav.Link href="/#/contact">
+              <Nav.Link href="/dilab/#/contact">
                 <em>Contact us</em>
               </Nav.Link>
             </StyledLink>
