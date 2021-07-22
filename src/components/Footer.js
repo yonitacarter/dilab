@@ -2,7 +2,7 @@ import React from "react";
 import { Nav } from "react-bootstrap";
 import styled from "styled-components";
 import { Subscribe } from "./Subscribe";
-import { ßMDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
+import { MDBCol, MDBContainer, MDBRow, MDBFooter } from "mdbreact";
 import SocialButtonsPage from "./SocialButtonsPage";
 
 var style = {
