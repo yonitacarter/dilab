@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Ludwig Beethoven",
+      "email": "lb@gmail.com",
+      "social": "",
+      "password": "123"
+    },
+    {
+      "id": 2,
+      "fullName": "Amadeus Mozart",
+      "email": "am@gmail.com",
+      "social": "",
+      "password": "123"
+    },
+    {
+      "id": 3,
+      "fullName": "Sebasatian Bach",
+      "email": "sb@ymail.com",
+      "social": "",
+      "password": "123"
+    },
+    {
+      "fullName": "x",
+      "email": "x@yahoo.com",
+      "id": 4,
+      "password": "x"
+    },
+    {
+      "fullName": "y",
+      "email": "y@y.com",
+      "password": "y",
+      "social": "w",
+      "id": 5
+    }
+  ]
+}
