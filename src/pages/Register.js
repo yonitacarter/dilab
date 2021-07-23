@@ -18,7 +18,7 @@ export class Register extends Component {
       social: this.state.social,
     };
 
-    const res = await fetch("http://localhost:5000/users", {
+    const res = await fetch("https://my-json-server.typicode.com/harchharchi/blab2/users", {
       method: "POST",
       headers: {
         "Content-type": "application/json",

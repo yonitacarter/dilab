@@ -29,7 +29,7 @@ class LoginEmail extends Component {
   componentDidUpdate() {}
 
   fetchUsers = async () => {
-    
+    // const res = await fetch("http://localhost:5000/users");
     const res = await fetch("https://my-json-server.typicode.com/harchharchi/blab2/users");
     const data = await res.json();
 
