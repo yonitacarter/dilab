@@ -20,10 +20,10 @@ const Styles = styled.div`
 
 `;
 
-function myFunction() {
-  const x = document.getElementById("followBtn").innerHTML;
+function myFunction(id) {
+  const x = document.getElementById(id).innerHTML;
 
-  document.getElementById("followBtn").innerHTML =
+  document.getElementById(id).innerHTML =
     x == "Follow" ? "Following" : "Follow";
 }
 
@@ -47,12 +47,12 @@ export const VideoPost = (props) => {
           <Row>
             <Col>
               <Button
-                id="followBtn"
+                id={props.id}
                 floating
                 tag="a"
                 size="sm"
                 variant="info"
-                onClick={myFunction}
+                onClick={() => myFunction(props.id)}
                 style={{ width: "170px" }}
               >
                 Follow

@@ -1,8 +1,11 @@
 {
-  "homepage": "https://harchharchi.github.io/dilab/",
+  "homepage": "https://Birkbeck2.github.io/visual-design-and-web-project-armc244s7_2021-yonitacarter/",
+
+  
+
   "name": "picnik",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",

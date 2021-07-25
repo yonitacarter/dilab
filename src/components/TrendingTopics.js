@@ -25,19 +25,19 @@ export const TrendingTopics = () => {
           }}
         >
           <Row>
-            <VideoPost url="https://youtu.be/fn3KWM1kuAw" />
+            <VideoPost url="https://youtu.be/fn3KWM1kuAw" id="followBtn1"/>
           </Row>
           <br />
           <Row>
-            <VideoPost url="https://youtu.be/JE0eZKHgfyw" />
+            <VideoPost url="https://youtu.be/JE0eZKHgfyw" id="followBtn2"/>
           </Row>
           <br />
           <Row>
-            <VideoPost url="https://youtu.be/MLIKTBvgAGY" />
+            <VideoPost url="https://youtu.be/MLIKTBvgAGY" id="followBtn3"/>
           </Row>
           <br />
           <Row>
-            <VideoPost url="https://youtu.be/zIwLWfaAg-8" />
+            <VideoPost url="https://youtu.be/zIwLWfaAg-8" id="followBtn4"/>
           </Row>
         </Container>
       </div>

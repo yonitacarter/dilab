@@ -30,7 +30,7 @@ function App() {
       <NavigationBar />
       <Jumbotron />
       <Layout>
-        <Router>
+        <Router basename="/visual-design-and-web-project-armc244s7_2021-yonitacarter">
           <Switch>
             <Route exact path="/" component={Home} />
             <Route path="/register" component={Register} />
